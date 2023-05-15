@@ -1,0 +1,97 @@
+<keymap version="1" name="IntelliJ (GNOME) - ORANGE" parent="Default for GNOME">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt w" second-keystroke="d" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt r" second-keystroke="d" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt r" second-keystroke="r" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt t" second-keystroke="w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt t" second-keystroke="q" />
+  </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="d" />
+  </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="u" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="HighlightUsagesInFile" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="alt t" second-keystroke="t" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="RerunTests" />
+  <action id="RiderReattach" />
+  <action id="RiderRemoveAllLineBreakpoints" />
+  <action id="RiderUnitTestAppendTestsAction" />
+  <action id="RiderUnitTestCoverSolutionAction" />
+  <action id="RiderUnitTestDebugContextAction">
+    <keyboard-shortcut first-keystroke="alt u" second-keystroke="d" />
+  </action>
+  <action id="RiderUnitTestDotMemoryUnitContextAction" />
+  <action id="RiderUnitTestDotMemoryUnitSolutionAction" />
+  <action id="RiderUnitTestNewSessionAction" />
+  <action id="RiderUnitTestQuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt u" second-keystroke="space" />
+  </action>
+  <action id="RiderUnitTestRepeatPreviousRunAction">
+    <keyboard-shortcut first-keystroke="alt u" second-keystroke="u" />
+  </action>
+  <action id="RiderUnitTestRunContextAction">
+    <keyboard-shortcut first-keystroke="alt u" second-keystroke="r" />
+  </action>
+  <action id="RiderUnitTestRunContextUntilFailAction" />
+  <action id="RiderUnitTestRunCurrentSessionAction" />
+  <action id="RiderUnitTestRunSolutionAction">
+    <keyboard-shortcut first-keystroke="shift alt u" second-keystroke="r" />
+  </action>
+  <action id="RiderUnitTestSessionAbortAction">
+    <keyboard-shortcut first-keystroke="alt u" second-keystroke="s" />
+  </action>
+  <action id="RiderUnitTestSessionRerunFailedTestsAction" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="r" />
+  </action>
+  <action id="SchemaCompare.UpdateTarget" />
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="y" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="s" />
+  </action>
+  <action id="StopBackgroundProcesses" />
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="ctrl alt d" second-keystroke="p" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="p" />
+  </action>
+  <action id="ToggleTemporaryLineBreakpoint" />
+  <action id="UsageGrouping.DirectoryStructure" />
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift alt d" second-keystroke="p" />
+  </action>
+  <action id="XDebugger.AttachToProcess" />
+  <action id="hg4idea.QFold" />
+  <action id="liveedit.UpdateRunningApplication" />
+</keymap>
