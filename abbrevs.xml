@@ -1,0 +1,11 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="CloseContent" />
+      <action id="PinActiveEditorTab" />
+      <action id="CloseAllUnpinnedEditors" />
+      <action id="CloseAllEditorsButActive" />
+      <action id="Debug" />
+    </abbreviations>
+  </component>
+</application>

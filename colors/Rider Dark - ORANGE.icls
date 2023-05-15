@@ -1,0 +1,28 @@
+<scheme name="Rider Dark - ORANGE" version="142" parent_scheme="Rider Dark">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2023-04-17T09:21:52</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2023.1.0.0</property>
+    <property name="modified">2023-04-17T09:24:42</property>
+    <property name="originalScheme">_@user_Rider Dark</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="181b1b" />
+    <option name="WHITESPACES" value="cccccc" />
+  </colors>
+  <attributes>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="cccccc" />
+        <option name="BACKGROUND" value="4a2421" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="612722" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

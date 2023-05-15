@@ -1,0 +1,29 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;/home/sergei/code/github/ericreg.Supercluster.KDTree&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+      <component name="WindowStateProjectService">
+        <state x="1476" y="337" width="424" height="519" key="FileChooserDialogImpl" timestamp="1682346809335">
+          <screen x="0" y="32" width="3840" height="1568" />
+        </state>
+        <state x="738" y="236" width="424" height="519" key="FileChooserDialogImpl/0.32.1920.1048/1920.0.1920.1080" timestamp="1676274921206" />
+        <state x="1476" y="337" key="FileChooserDialogImpl/0.32.3840.1568" timestamp="1682346809335" />
+        <state x="555" y="224" width="800" height="537" key="Rider.ProjectTemplateDialog.Size" timestamp="1676794256743">
+          <screen x="0" y="32" width="1920" height="1048" />
+        </state>
+        <state x="555" y="224" width="800" height="537" key="Rider.ProjectTemplateDialog.Size/0.32.1920.1048" timestamp="1676794256743" />
+        <state x="928" y="170" width="1240" height="737" key="SettingsEditor" timestamp="1683885740636">
+          <screen x="0" y="32" width="3840" height="1568" />
+        </state>
+        <state x="464" y="124" width="1240" height="737" key="SettingsEditor/0.32.1920.1048" timestamp="1676794237581" />
+        <state x="928" y="170" key="SettingsEditor/0.32.3840.1568/3840.520.1920.1080" timestamp="1683885740636" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
