@@ -4,6 +4,6 @@
     <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" playSound="true" />
     <notification groupId="Key Promoter X" shouldLog="false" />
     <notification groupId="Vcs Important Messages" />
-    <notification groupId="Vcs Notifications" playSound="true" />
+    <notification groupId="Vcs Notifications" displayType="NONE" shouldLog="false" playSound="true" />
   </component>
 </application>
